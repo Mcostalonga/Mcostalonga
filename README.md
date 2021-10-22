@@ -1,7 +1,7 @@
 # Hello there :relaxed:
 
-I'm Michell Luiz Costalonga, I'm a Mechanical Engineering Researcher at Federal University of Espirito Santo and also a doctoral student in Mechanical Engineering.
-I'm from Espirito Santo, Brazil, and I'm learning Python to apply it to Computer Vision and Data analysis. 
+I'm Michell Luiz Costalonga, I'm a Mechanical Engineering and I work as a researcher at Federal University of Espirito Santo. I am also a phD candidate in Mechanical Engineering at the same university.
+I'm from Espirito Santo, Brazil, and I'm eager to learn Python to apply it to Computer Vision and Data analysis. 
 
 # :computer: Technologies
 
