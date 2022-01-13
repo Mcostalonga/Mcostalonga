@@ -3,10 +3,12 @@
 I'm Michell Luiz Costalonga, I'm a Mechanical Engineering and I work as a researcher at Federal University of Espirito Santo. I am also a phD candidate in Mechanical Engineering at the same university.
 I'm from Espirito Santo, Brazil, and I'm eager to learn Python to apply it to Computer Vision, Data analysis and Machine Learning. 
 
-## My GitHub Stats :relaxed:
+## :relaxed: My GitHub Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcostalonga&show_icons=true&theme=midnight-purple)
 
+## 🧰 Most Used Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcostalonga&theme=tokyonight)
 
 # :computer: Technologies
 
