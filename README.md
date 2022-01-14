@@ -8,7 +8,7 @@ I'm from Espirito Santo, Brazil, and I'm eager to learn Python to apply it to Co
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcostalonga&show_icons=true&theme=midnight-purple)
 
 ## 🧰 Most Used Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcostalonga&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcostalonga&theme=tokyonight&layout=compact)
 
 # :computer: Technologies
 
