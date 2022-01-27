@@ -1,6 +1,6 @@
 # Hello there :space_invader:
 
-I'm Michell Luiz Costalonga, I'm a Mechanical Engineering and I work as a researcher, and Data and Process Analyst at Federal University of Espirito Santo.
+I'm Michell Luiz Costalonga, I've a Master's degree in Mechanical Engineering and I work as a researcher, and Data and Process Analyst at Federal University of Espirito Santo.
 I'm from Espirito Santo, Brazil, and I'm interested in Python, C#, Computer Vision, Data analysis and Machine Learning. 
 
 ## :relaxed: My GitHub Stats 
